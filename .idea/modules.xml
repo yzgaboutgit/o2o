@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/o2o-common/o2o-common.iml" filepath="$PROJECT_DIR$/o2o-common/o2o-common.iml" />
+      <module fileurl="file://$PROJECT_DIR$/o2o-manager/o2o-manager.iml" filepath="$PROJECT_DIR$/o2o-manager/o2o-manager.iml" />
+      <module fileurl="file://$PROJECT_DIR$/o2o-manager/o2o-manager-mapper/o2o-manager-mapper.iml" filepath="$PROJECT_DIR$/o2o-manager/o2o-manager-mapper/o2o-manager-mapper.iml" />
+      <module fileurl="file://$PROJECT_DIR$/o2o-manager/o2o-manager-pojo/o2o-manager-pojo.iml" filepath="$PROJECT_DIR$/o2o-manager/o2o-manager-pojo/o2o-manager-pojo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/o2o-manager/o2o-manager-service/o2o-manager-service.iml" filepath="$PROJECT_DIR$/o2o-manager/o2o-manager-service/o2o-manager-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/o2o-manager/o2o-manager-web/o2o-manager-web.iml" filepath="$PROJECT_DIR$/o2o-manager/o2o-manager-web/o2o-manager-web.iml" />
+      <module fileurl="file://$PROJECT_DIR$/o2o-parent/o2o-parent.iml" filepath="$PROJECT_DIR$/o2o-parent/o2o-parent.iml" />
+    </modules>
+  </component>
+</project>
