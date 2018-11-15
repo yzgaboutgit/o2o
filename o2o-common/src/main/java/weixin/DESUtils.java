@@ -1,3 +1,5 @@
+package weixin;
+
 import java.security.Key;
 import java.security.SecureRandom;
 

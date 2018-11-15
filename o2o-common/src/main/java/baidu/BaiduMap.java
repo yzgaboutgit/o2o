@@ -11,7 +11,7 @@ import net.sf.json.JSONObject;
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
 
-import com.imooc.myo2o.util.weixin.WeixinUtil;
+import weixin.WeixinUtil;
 
 public class BaiduMap {
 

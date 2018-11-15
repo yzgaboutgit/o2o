@@ -1,4 +1,5 @@
 import org.springframework.beans.factory.config.PropertyPlaceholderConfigurer;
+import weixin.DESUtils;
 
 public class EncryptPropertyPlaceholderConfigurer extends
 		PropertyPlaceholderConfigurer {

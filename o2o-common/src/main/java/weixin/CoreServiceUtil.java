@@ -5,9 +5,9 @@ import java.util.Map;
 
 import javax.servlet.http.HttpServletRequest;
 
-import com.imooc.myo2o.util.baidu.BaiduMap;
-import com.imooc.myo2o.util.baidu.Point;
-import com.imooc.myo2o.util.weixin.message.resp.TextMessage;
+import baidu.BaiduMap;
+import baidu.Point;
+import weixin.message.resp.TextMessage;
 
 /**
  * 核心服务类

@@ -1,6 +1,6 @@
 package weixin.message.resp;
 
-import com.imooc.myo2o.util.baidu.Point;
+import baidu.Point;
 
 /** 
  * 文本消息 

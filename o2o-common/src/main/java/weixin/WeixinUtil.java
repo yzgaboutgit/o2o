@@ -19,8 +19,8 @@ import net.sf.json.JSONObject;
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
 
-import com.imooc.myo2o.util.weixin.message.pojo.AccessToken;
-import com.imooc.myo2o.util.weixin.message.pojo.Menu;
+import weixin.message.pojo.AccessToken;
+import weixin.message.pojo.Menu;
 
 /**
  * 公众平台通用接口工具类

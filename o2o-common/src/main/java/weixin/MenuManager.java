@@ -6,12 +6,12 @@ import java.net.URLEncoder;
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
 
-import com.imooc.myo2o.util.weixin.message.pojo.AccessToken;
-import com.imooc.myo2o.util.weixin.message.pojo.Button;
-import com.imooc.myo2o.util.weixin.message.pojo.CommonButton;
-import com.imooc.myo2o.util.weixin.message.pojo.ComplexButton;
-import com.imooc.myo2o.util.weixin.message.pojo.Menu;
-import com.imooc.myo2o.util.weixin.message.pojo.ViewButton;
+import weixin.message.pojo.AccessToken;
+import weixin.message.pojo.Button;
+import weixin.message.pojo.CommonButton;
+import weixin.message.pojo.ComplexButton;
+import weixin.message.pojo.Menu;
+import weixin.message.pojo.ViewButton;
 
 /**
  * 菜单管理器类

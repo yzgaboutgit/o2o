@@ -12,10 +12,10 @@ import org.dom4j.Document;
 import org.dom4j.Element;
 import org.dom4j.io.SAXReader;
 
-import com.imooc.myo2o.util.weixin.message.resp.Article;
-import com.imooc.myo2o.util.weixin.message.resp.MusicMessage;
-import com.imooc.myo2o.util.weixin.message.resp.NewsMessage;
-import com.imooc.myo2o.util.weixin.message.resp.TextMessage;
+import weixin.message.resp.Article;
+import weixin.message.resp.MusicMessage;
+import weixin.message.resp.NewsMessage;
+import weixin.message.resp.TextMessage;
 import com.thoughtworks.xstream.XStream;
 import com.thoughtworks.xstream.core.util.QuickWriter;
 import com.thoughtworks.xstream.io.HierarchicalStreamWriter;

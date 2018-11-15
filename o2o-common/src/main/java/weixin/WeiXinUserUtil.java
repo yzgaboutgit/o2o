@@ -9,9 +9,7 @@ import net.sf.json.JSONObject;
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
 
-import com.imooc.myo2o.entity.PersonInfo;
-import com.imooc.myo2o.util.DESUtils;
-import com.imooc.myo2o.util.weixin.message.pojo.UserAccessToken;
+import weixin.message.pojo.UserAccessToken;
 
 public class WeiXinUserUtil {
 
